@@ -1,0 +1,31 @@
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar pastas comuns de saída de IDEs
+bin/
+out/
+target/
+
+# Ignorar arquivos temporários e de log
+*.log
+*.tmp
+
+# Ignorar arquivos do Eclipse
+.settings/
+.project
+.classpath
+
+# Ignorar arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar arquivos do NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# Ignorar arquivos de pacotes finais
+*.jar
+*.war
+*.ear
